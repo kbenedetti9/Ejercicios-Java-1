@@ -1,0 +1,12 @@
+
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(üºìÆıÿÿÿÿ8Êñœôˆ.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Úôù8Êñœôˆ.
+\squid:S49732"9Use the "equals" method if value comparison was intended.(ÁÜÿÿÿÿÿ8åì¤ôˆ.
+Wsquid:S4973/"9Use the "equals" method if value comparison was intended.(¼­æŞ8¯£ôˆ.
+[squid:S1197"8Move the array designator from the variable to the type.(ÚõÛĞÿÿÿÿÿ8×–‹éˆ.
+Vsquid:S1197"8Move the array designator from the variable to the type.(˜¬ ö8×–‹éˆ.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ü¸Í¾8†‚ôˆ.
+Tsquid:S1659	"6Declare "numVideojuegosEntregados" on a separate line.(Õ·éî8ÈÁ¼óˆ.

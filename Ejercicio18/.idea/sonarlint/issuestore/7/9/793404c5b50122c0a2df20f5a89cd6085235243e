@@ -1,0 +1,4 @@
+
+qsquid:ModifiersOrderCheck	"EReorder the modifiers to comply with the Java Language Specification.(îş«é8ÒéŸàˆ.
+¨squid:S1862f"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ï—Ö­ıÿÿÿÿ8ÆºÓåˆ.
+_squid:S1126Z"AReplace this if-then-else statement by a single return statement.(ñ¾›ì8Çîàˆ.

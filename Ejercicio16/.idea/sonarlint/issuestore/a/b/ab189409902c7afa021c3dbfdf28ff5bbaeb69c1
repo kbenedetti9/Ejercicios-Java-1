@@ -1,0 +1,15 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(£¾‹Ñ8Ëß³ˆ.
+rsquid:S00116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ8Šö”ˆ.
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(²›Û›şÿÿÿÿ8õÆßˆ.
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(÷·±½ÿÿÿÿÿ8õÆßˆ.
+Gsquid:S2140J")Use "java.util.Random.nextInt()" instead.(ı´Ò‚8õÆßˆ.
+?squid:S1643T"Use a StringBuilder instead.(ÜÉõüÿÿÿÿ8õÆßˆ.
+_squid:HiddenFieldCheckP"6Rename "DNI" which hides the field declared at line 7.(’ìõ¢8õÆßˆ.
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(²˜åù8õÆßˆ.
+\squid:S1854Q"9Remove this useless assignment to local variable "letra".(äº¨‡şÿÿÿÿ8õÆßˆ.
+|squid:S1845"^Rename field "SEXO" to prevent any misunderstanding/clash with field "sexo" defined on line 8.(£¾‹Ñ8Šö”ˆ.
+psquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ìõ¢8õÆßˆ.
+Fsquid:S2140S")Use "java.util.Random.nextInt()" instead.(í¦št8õÆßˆ.
+_squid:S1126:"AReplace this if-then-else statement by a single return statement.(éº©í8õÆßˆ.
+\squid:S1854I"9Remove this useless assignment to local variable "letra".(äº¨‡şÿÿÿÿ8õÆßˆ.
